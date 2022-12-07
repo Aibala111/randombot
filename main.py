@@ -1,7 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
 import config 
 
-import markups as nav
 import random
 
 bot = Bot(config.token)
